@@ -1,6 +1,6 @@
 -  Hi, I’m @SAKTHINSM
 -  I’m interested in Develop a websites
--  I’m currently learning Oracle SQL, Core Java and Manual Testing...
+-  I’m currently learning Oracle SQL, Core Java, Web Technology and Manual Testing...
 -  I’m looking to collaborate on Work With Projects
 
 <!---
